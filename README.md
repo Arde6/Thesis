@@ -3,7 +3,7 @@ Artturi Juurenheimo
 
 # Neural Networks Inference on Different Computing Platforms
 
-The objective of this thesis was to compare the performance and cost-effectiveness of neural network inference across three differenct computing platforms: ESP32-S3, Raspberry Pi 5 and a general pc / a server / a cloud service. This thesis was made as a continuation of Atte Mäki-Kerttulas Thesis found at: https://github.com/AtteMK/Thesis-work and https://urn.fi/URN:NBN:fi:amk-2025120934201. Credits of the neural network trainer under pytorch-project folder go to him. My thesis can be found at: *I will add the link here when I have it*
+The objective of this thesis was to compare the performance and cost-effectiveness of neural network inference across three differenct computing platforms: ESP32-S3, Raspberry Pi 5 and a general pc / a server / a cloud service. This thesis was made as a continuation of Atte Mäki-Kerttulas Thesis found at: https://github.com/AtteMK/Thesis-work and https://urn.fi/URN:NBN:fi:amk-2025120934201. Credits of the neural network trainer under pytorch-project folder go to him. My thesis can be found at: https://urn.fi/URN:NBN:fi:amk-2026061024105
 
 ## esp-inferring
 
